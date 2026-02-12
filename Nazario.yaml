@@ -1,0 +1,7 @@
+id: mine-workflow
+info:
+  name: Custom Bug Bounty Workflow
+  author: nazario
+  severity: all
+workflows:
+  - tags: vuln,cve,discovery,exposure,xss,rce,panel,wordpress,wp-plugin
